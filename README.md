@@ -19,7 +19,8 @@ Speed
 User experience
 
 ## Algorithm
+[Experiment-2 Prompting Techniques Text Summarization.pdf](https://github.com/user-attachments/files/23013063/Experiment-2.Prompting.Techniques.Text.Summarization.pdf)
 
 ## Result
-
+The experiment successfully evaluated various prompting techniques across different AI platforms and produced a comprehensive comparison of their effectiveness in text summarization.
 
